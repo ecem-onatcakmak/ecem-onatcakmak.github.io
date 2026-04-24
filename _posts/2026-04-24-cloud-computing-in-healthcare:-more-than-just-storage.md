@@ -1,5 +1,4 @@
-**Cloud Computing in Healthcare: More Than Just Storage**    
-
+  
 When people think about innovation in healthcare, they usually picture cutting-edge drugs, surgical robots, or AI diagnostics. But there's a quieter revolution happening underneath all of that, one that makes most of modern biomedical research possible in the first place. It's cloud computing, and it's reshaping everything from how we store patient records to how we sequence genomes.  
 
 The data problem in healthcare is massive.  
