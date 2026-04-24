@@ -30,5 +30,5 @@ The tools are there. The infrastructure is maturing. The exciting part now is fi
 
 
 **References**  
-[1] Sachdeva, S., Bhatia, S., Al Harrasi, A., Shah, Y. A., Anwer, M. K., Philip, A. K., ... & Halim, S. A. (2024). Unraveling the role of cloud computing in health care system and biomedical sciences. Heliyon, 10(7).
+[1] Sachdeva, S., Bhatia, S., Al Harrasi, A., Shah, Y. A., Anwer, M. K., Philip, A. K., ... & Halim, S. A. (2024). Unraveling the role of cloud computing in health care system and biomedical sciences. Heliyon, 10(7).  
 [2] Vijayaraj, N., Rajalakshmi, D., Immaculate, P. S., Sathianarayani, B., Rajeswari, S., & Gomathi, S. (2024). An innovative approach to improve the quality of pharmaceuticals approach using cloud computing. EAI Endorsed Transactions on Pervasive Health and Technology, 10.
